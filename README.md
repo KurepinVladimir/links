@@ -1,5 +1,8 @@
 # links
+1)
+https://kurepinvladimir.github.io/links/cv
 
+0 # code)
 <!doctype html>
 <html lang="en">
 <head>
